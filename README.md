@@ -9,6 +9,9 @@ A simple BMI calculator using tkinter in python
 
 1.Enter your height and weight(in given parameters) in corresponding boxes.</br>2.Click on **calculate** button
 
+result:point_down:
+
+
 ![Screenshot from 2022-11-02 13-26-40](https://user-images.githubusercontent.com/106462040/199431834-293d1ed7-1351-4df5-8158-235fbe8457b9.png)
 
 
